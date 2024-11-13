@@ -12,6 +12,7 @@ Jupyter Notebook – For interactive data analysis
 
 **CONCLUSION**
 
-Married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, working on it, 
-healthcare and Avitation are more likely to buys products from foods,
-clothing and electronic category.  
+Executed data cleansing and manipulation
+Conducted exploratory data analysis (EDA) utilizing the pandas, matplotlib, and seaborn libraries
+Enhanced customer experience by recognizing potential customers from various states, professions, genders, and age categories.
+Enhanced sales by recognizing the top-selling product categories and items, which can assist in inventory planning and thus meet demand. 
